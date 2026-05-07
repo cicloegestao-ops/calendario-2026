@@ -1,0 +1,1975 @@
+{
+  "events": [
+    {
+      "title": "FERIADO - ANO NOVO",
+      "start": "2026-01-01",
+      "end": "2026-01-01",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - ANO NOVO"
+      ],
+      "id": "ev_001",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INVENTÁRIO ANUAL",
+      "start": "2026-01-02",
+      "end": "2026-01-02",
+      "days": 1,
+      "all_labels": [
+        "INVENTÁRIO ANUAL"
+      ],
+      "id": "ev_002",
+      "category": "operacional",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "INICIO - ABERTURA DE META 2026.1",
+      "start": "2026-01-05",
+      "end": "2026-01-05",
+      "days": 1,
+      "all_labels": [
+        "INICIO - ABERTURA DE META 2026.1"
+      ],
+      "id": "ev_003",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "INÍCIO RDG - GURUMÊ",
+      "start": "2026-01-08",
+      "end": "2026-01-08",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO RDG - GURUMÊ"
+      ],
+      "id": "ev_004",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "AUTOAVALIAÇÃO + LÍDERES - RDG GURU",
+      "start": "2026-01-09",
+      "end": "2026-01-18",
+      "days": 10,
+      "all_labels": [
+        "AUTOAVALIAÇÃO + LÍDERES - RDG GURU"
+      ],
+      "id": "ev_005",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "NRF 2026 - BTR-VARESE",
+      "start": "2026-01-09",
+      "end": "2026-01-16",
+      "days": 8,
+      "all_labels": [
+        "NRF 2026 - BTR-VARESE"
+      ],
+      "id": "ev_006",
+      "category": "evento_externo",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "CONFRATERNIZAÇÃO FÁBRICA",
+      "start": "2026-01-10",
+      "end": "2026-01-10",
+      "days": 1,
+      "all_labels": [
+        "CONFRATERNIZAÇÃO FÁBRICA"
+      ],
+      "id": "ev_007",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PLANEJAMENTO ESTRATÉGICO - GURUMÊ",
+      "start": "2026-01-13",
+      "end": "2026-01-14",
+      "days": 2,
+      "all_labels": [
+        "PLANEJAMENTO ESTRATÉGICO - GURUMÊ"
+      ],
+      "id": "ev_008",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "TREINAMENTO PRESENCIAL - RDG OH",
+      "start": "2026-01-15",
+      "end": "2026-01-15",
+      "days": 1,
+      "all_labels": [
+        "TREINAMENTO PRESENCIAL - RDG OH"
+      ],
+      "id": "ev_009",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "TREINAMENTO ONLINE - RDG OH",
+      "start": "2026-01-16",
+      "end": "2026-01-16",
+      "days": 1,
+      "all_labels": [
+        "TREINAMENTO ONLINE - RDG OH"
+      ],
+      "id": "ev_010",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "[ÚLTIMO DIA] AUTOAVALIAÇÃO RDG GURU",
+      "start": "2026-01-19",
+      "end": "2026-01-19",
+      "days": 1,
+      "all_labels": [
+        "[ÚLTIMO DIA] AUTOAVALIAÇÃO RDG GURU"
+      ],
+      "id": "ev_011",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "[ÚLTIMO DIA] VALIDAÇÃO DE ÁRVORE - RDG GURU (LID.)",
+      "start": "2026-01-19",
+      "end": "2026-01-19",
+      "days": 1,
+      "all_labels": [
+        "[ÚLTIMO DIA] VALIDAÇÃO DE ÁRVORE - RDG GURU (LID.)"
+      ],
+      "id": "ev_012",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "AVALIAÇÃO LÍDERES - RDG GURU",
+      "start": "2026-01-20",
+      "end": "2026-01-21",
+      "days": 2,
+      "all_labels": [
+        "AVALIAÇÃO LÍDERES - RDG GURU"
+      ],
+      "id": "ev_013",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO RJ - Dia de São Sebastião, Padroeiro da Cidade",
+      "start": "2026-01-20",
+      "end": "2026-01-20",
+      "days": 1,
+      "all_labels": [
+        "FERIADO RJ - Dia de São Sebastião, Padroeiro da Cidade"
+      ],
+      "id": "ev_014",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ENCONTRO CPQ",
+      "start": "2026-01-21",
+      "end": "2026-01-21",
+      "days": 1,
+      "all_labels": [
+        "ENCONTRO CPQ"
+      ],
+      "id": "ev_015",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INÍCIO RDG - OH",
+      "start": "2026-01-21",
+      "end": "2026-01-21",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO RDG - OH"
+      ],
+      "id": "ev_016",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "AUTOAVALIAÇÃO - RDG OH",
+      "start": "2026-01-22",
+      "end": "2026-01-29",
+      "days": 8,
+      "all_labels": [
+        "AUTOAVALIAÇÃO - RDG OH",
+        "[ÚLTIMO DIA] AUTOAVALIAÇÃO -  RDG OH"
+      ],
+      "id": "ev_017",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO SPOLETO RJ",
+      "start": "2026-01-22",
+      "end": "2026-01-22",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO SPOLETO RJ"
+      ],
+      "id": "ev_018",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "[ÚLTIMO DIA] AVALIAÇÃO LÍDERES - RDG GURU (OP)",
+      "start": "2026-01-22",
+      "end": "2026-01-22",
+      "days": 1,
+      "all_labels": [
+        "[ÚLTIMO DIA] AVALIAÇÃO LÍDERES - RDG GURU (OP)"
+      ],
+      "id": "ev_019",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "AVALIAÇÃO 360 - RDG GURU (LID.)",
+      "start": "2026-01-23",
+      "end": "2026-01-28",
+      "days": 6,
+      "all_labels": [
+        "AVALIAÇÃO 360 - RDG GURU (LID.)",
+        "[ÚLTIMO DIA] AVALIAÇÃO 360 - RDG GURU (LID.)"
+      ],
+      "id": "ev_020",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO CIB RJ",
+      "start": "2026-01-23",
+      "end": "2026-01-23",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO CIB RJ"
+      ],
+      "id": "ev_021",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PRAZO FINAL - ABERTURA DE META 2026.1",
+      "start": "2026-01-23",
+      "end": "2026-01-23",
+      "days": 1,
+      "all_labels": [
+        "PRAZO FINAL - ABERTURA DE META 2026.1"
+      ],
+      "id": "ev_022",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "FERIADO SP - Aniversário da Cidade de São Paulo",
+      "start": "2026-01-25",
+      "end": "2026-01-25",
+      "days": 1,
+      "all_labels": [
+        "FERIADO SP - Aniversário da Cidade de São Paulo"
+      ],
+      "id": "ev_023",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "DEVOLUTIVA FINAL PGF III",
+      "start": "2026-01-26",
+      "end": "2026-01-26",
+      "days": 1,
+      "all_labels": [
+        "DEVOLUTIVA FINAL PGF III"
+      ],
+      "id": "ev_024",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ESCOLA MULTI",
+      "start": "2026-01-27",
+      "end": "2026-01-29",
+      "days": 3,
+      "all_labels": [
+        "ESCOLA MULTI"
+      ],
+      "id": "ev_025",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ABERTURA PROGRAMA DE ESTÁGIO",
+      "start": "2026-01-28",
+      "end": "2026-01-28",
+      "days": 1,
+      "all_labels": [
+        "ABERTURA PROGRAMA DE ESTÁGIO"
+      ],
+      "id": "ev_026",
+      "category": "meta",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS DEZ",
+      "start": "2026-01-30",
+      "end": "2026-01-30",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS DEZ"
+      ],
+      "id": "ev_027",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "[INÍCIO] AVALIAÇÕES 360 - RDG OH",
+      "start": "2026-01-30",
+      "end": "2026-01-30",
+      "days": 1,
+      "all_labels": [
+        "[INÍCIO] AVALIAÇÕES 360 - RDG OH"
+      ],
+      "id": "ev_028",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "AVALIAÇÃO 360 - RDG OH",
+      "start": "2026-01-31",
+      "end": "2026-02-19",
+      "days": 20,
+      "all_labels": [
+        "AVALIAÇÃO 360 - RDG OH",
+        "[ÚLTIMO DIA] AVALIAÇÃO 360 -  RDG OH"
+      ],
+      "id": "ev_029",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FECHAMENTO DE METAS 25.2 - DIRETORIA",
+      "start": "2026-02-02",
+      "end": "2026-02-02",
+      "days": 1,
+      "all_labels": [
+        "FECHAMENTO DE METAS 25.2 - DIRETORIA"
+      ],
+      "id": "ev_030",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "INICIO CPQ",
+      "start": "2026-02-02",
+      "end": "2026-02-02",
+      "days": 1,
+      "all_labels": [
+        "INICIO CPQ"
+      ],
+      "id": "ev_031",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INICIO - FECHAMENTO DE METAS 25.2",
+      "start": "2026-02-03",
+      "end": "2026-02-03",
+      "days": 1,
+      "all_labels": [
+        "INICIO - FECHAMENTO DE METAS 25.2"
+      ],
+      "id": "ev_032",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "RDG OPERACIONAL - GURUMÊ",
+      "start": "2026-02-03",
+      "end": "2026-02-04",
+      "days": 2,
+      "all_labels": [
+        "RDG OPERACIONAL - GURUMÊ"
+      ],
+      "id": "ev_033",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PESQUISA DE CLIMA FÁBRICA",
+      "start": "2026-02-06",
+      "end": "2026-02-17",
+      "days": 12,
+      "all_labels": [
+        "FINAL - PESQUISA DE CLIMA FÁBRICA",
+        "INÍCIO - PESQUISA DE CLIMA FÁBRICA",
+        "PESQUISA DE CLIMA FÁBRICA"
+      ],
+      "id": "ev_034",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG OPERACIONAL - GURUMÊ",
+      "start": "2026-02-10",
+      "end": "2026-02-11",
+      "days": 2,
+      "all_labels": [
+        "RDG OPERACIONAL - GURUMÊ"
+      ],
+      "id": "ev_035",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "N2 ÁREA DE GENTE - MANHÃ",
+      "start": "2026-02-12",
+      "end": "2026-02-12",
+      "days": 1,
+      "all_labels": [
+        "N2 ÁREA DE GENTE - MANHÃ"
+      ],
+      "id": "ev_036",
+      "category": "outro",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "APRESENTAÇÃO PESQUISA DE CLIMA GURUMÊ",
+      "start": "2026-02-13",
+      "end": "2026-02-13",
+      "days": 1,
+      "all_labels": [
+        "APRESENTAÇÃO PESQUISA DE CLIMA GURUMÊ"
+      ],
+      "id": "ev_037",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "Ponto Facultativo - Carnaval",
+      "start": "2026-02-14",
+      "end": "2026-02-16",
+      "days": 3,
+      "all_labels": [
+        "Ponto Facultativo - Carnaval"
+      ],
+      "id": "ev_038",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "Feriado  - Carnaval",
+      "start": "2026-02-17",
+      "end": "2026-02-17",
+      "days": 1,
+      "all_labels": [
+        "Feriado  - Carnaval"
+      ],
+      "id": "ev_039",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "IFA 2026",
+      "start": "2026-02-17",
+      "end": "2026-02-26",
+      "days": 10,
+      "all_labels": [
+        "IFA 2026"
+      ],
+      "id": "ev_040",
+      "category": "evento_externo",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "ANÁLISE PESQUISA DE CLIMA FÁBRICA",
+      "start": "2026-02-18",
+      "end": "2026-02-25",
+      "days": 8,
+      "all_labels": [
+        "ANÁLISE PESQUISA DE CLIMA FÁBRICA"
+      ],
+      "id": "ev_041",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "Ponto Facultativo - Quarta-feira de Cinzas",
+      "start": "2026-02-18",
+      "end": "2026-02-18",
+      "days": 1,
+      "all_labels": [
+        "Ponto Facultativo - Quarta-feira de Cinzas"
+      ],
+      "id": "ev_042",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PRAZO FINAL - FECHAMENTO DE METAS 25.2",
+      "start": "2026-02-20",
+      "end": "2026-02-20",
+      "days": 1,
+      "all_labels": [
+        "PRAZO FINAL - FECHAMENTO DE METAS 25.2"
+      ],
+      "id": "ev_043",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "RDG LIDERANÇA- GURUMÊ",
+      "start": "2026-02-24",
+      "end": "2026-02-25",
+      "days": 2,
+      "all_labels": [
+        "RDG LIDERANÇA- GURUMÊ"
+      ],
+      "id": "ev_044",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS JAN",
+      "start": "2026-02-25",
+      "end": "2026-02-25",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS JAN"
+      ],
+      "id": "ev_045",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PLANEJAMENTO TUCUMÃ",
+      "start": "2026-02-27",
+      "end": "2026-02-27",
+      "days": 1,
+      "all_labels": [
+        "PLANEJAMENTO TUCUMÃ"
+      ],
+      "id": "ev_046",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS JAN",
+      "start": "2026-03-02",
+      "end": "2026-03-02",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS JAN"
+      ],
+      "id": "ev_047",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - GURUMÊ",
+      "start": "2026-03-03",
+      "end": "2026-03-03",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - GURUMÊ"
+      ],
+      "id": "ev_048",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - JORNADA",
+      "start": "2026-03-04",
+      "end": "2026-03-04",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - JORNADA"
+      ],
+      "id": "ev_049",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - CLIENTES, BRANDING E NOVOS NEGÓCIOS",
+      "start": "2026-03-05",
+      "end": "2026-03-05",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - CLIENTES, BRANDING E NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_050",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROCESSO SELETIVO PGF I e II",
+      "start": "2026-03-06",
+      "end": "2026-03-06",
+      "days": 1,
+      "all_labels": [
+        "PROCESSO SELETIVO PGF I e II"
+      ],
+      "id": "ev_051",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - ASIÁTICAS",
+      "start": "2026-03-09",
+      "end": "2026-03-09",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - ASIÁTICAS"
+      ],
+      "id": "ev_052",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "SEMANA DE CONSULTORIA",
+      "start": "2026-03-09",
+      "end": "2026-03-13",
+      "days": 5,
+      "all_labels": [
+        "SEMANA DE CONSULTORIA"
+      ],
+      "id": "ev_053",
+      "category": "outro",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - SUPRIMENTOS (VR)",
+      "start": "2026-03-11",
+      "end": "2026-03-11",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - SUPRIMENTOS (VR)"
+      ],
+      "id": "ev_054",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PLANEJAMENTO DE GENTE",
+      "start": "2026-03-12",
+      "end": "2026-03-12",
+      "days": 1,
+      "all_labels": [
+        "PLANEJAMENTO DE GENTE"
+      ],
+      "id": "ev_055",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS RIO - 14:30",
+      "start": "2026-03-13",
+      "end": "2026-03-13",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS RIO - 14:30"
+      ],
+      "id": "ev_056",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - SPOLETO",
+      "start": "2026-03-16",
+      "end": "2026-03-16",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - SPOLETO"
+      ],
+      "id": "ev_057",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - FINANCEIRO E JURÍDICO",
+      "start": "2026-03-17",
+      "end": "2026-03-17",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - FINANCEIRO E JURÍDICO"
+      ],
+      "id": "ev_058",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "MULTI UNIT 2026",
+      "start": "2026-03-18",
+      "end": "2026-03-28",
+      "days": 11,
+      "all_labels": [
+        "MULTI UNIT 2026"
+      ],
+      "id": "ev_059",
+      "category": "evento_externo",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - GENTE E EXPANSÃO",
+      "start": "2026-03-18",
+      "end": "2026-03-18",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - GENTE E EXPANSÃO"
+      ],
+      "id": "ev_060",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "RDG POR DIRETORIA - DIGITAL",
+      "start": "2026-03-19",
+      "end": "2026-03-19",
+      "days": 1,
+      "all_labels": [
+        "RDG POR DIRETORIA - DIGITAL"
+      ],
+      "id": "ev_061",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ESCOLA KONI RJ",
+      "start": "2026-03-24",
+      "end": "2026-03-25",
+      "days": 2,
+      "all_labels": [
+        "ESCOLA KONI RJ"
+      ],
+      "id": "ev_062",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE GENTE OH - LIDERANÇAS",
+      "start": "2026-03-30",
+      "end": "2026-03-31",
+      "days": 2,
+      "all_labels": [
+        "REUNIÃO DE GENTE OH - LIDERANÇAS"
+      ],
+      "id": "ev_063",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ESCOLA KONI SP",
+      "start": "2026-03-31",
+      "end": "2026-03-31",
+      "days": 1,
+      "all_labels": [
+        "ESCOLA KONI SP"
+      ],
+      "id": "ev_064",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS FEV",
+      "start": "2026-04-01",
+      "end": "2026-04-01",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS FEV"
+      ],
+      "id": "ev_065",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Paixão de Cristo",
+      "start": "2026-04-03",
+      "end": "2026-04-03",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Paixão de Cristo"
+      ],
+      "id": "ev_066",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FÉRIAS CAMILLA",
+      "start": "2026-04-06",
+      "end": "2026-04-21",
+      "days": 16,
+      "all_labels": [
+        "FÉRIAS CAMILLA"
+      ],
+      "id": "ev_067",
+      "category": "pessoal",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "SEMESTRAL CPQ SP",
+      "start": "2026-04-06",
+      "end": "2026-04-06",
+      "days": 1,
+      "all_labels": [
+        "SEMESTRAL CPQ SP"
+      ],
+      "id": "ev_068",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL SPOLETO SP",
+      "start": "2026-04-07",
+      "end": "2026-04-07",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL SPOLETO SP"
+      ],
+      "id": "ev_069",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL CIB SP",
+      "start": "2026-04-08",
+      "end": "2026-04-08",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL CIB SP"
+      ],
+      "id": "ev_070",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS SP",
+      "start": "2026-04-09",
+      "end": "2026-04-09",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS SP"
+      ],
+      "id": "ev_071",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL GENDAI SP",
+      "start": "2026-04-10",
+      "end": "2026-04-10",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL GENDAI SP"
+      ],
+      "id": "ev_072",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INÍCIO FEEDBACKS - OH",
+      "start": "2026-04-13",
+      "end": "2026-04-13",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO FEEDBACKS - OH"
+      ],
+      "id": "ev_073",
+      "category": "outro",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROCESSO SELETIVO - TRAINEE - 10:00",
+      "start": "2026-04-13",
+      "end": "2026-04-13",
+      "days": 1,
+      "all_labels": [
+        "PROCESSO SELETIVO - TRAINEE - 10:00"
+      ],
+      "id": "ev_074",
+      "category": "outro",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL SPOLETO RJ",
+      "start": "2026-04-15",
+      "end": "2026-04-15",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL SPOLETO RJ"
+      ],
+      "id": "ev_075",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL CHINA RJ",
+      "start": "2026-04-16",
+      "end": "2026-04-16",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL CHINA RJ"
+      ],
+      "id": "ev_076",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL KONI RJ",
+      "start": "2026-04-17",
+      "end": "2026-04-17",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL KONI RJ"
+      ],
+      "id": "ev_077",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Dia de Tiradentes",
+      "start": "2026-04-21",
+      "end": "2026-04-21",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Dia de Tiradentes"
+      ],
+      "id": "ev_078",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "DAY OFF",
+      "start": "2026-04-22",
+      "end": "2026-04-24",
+      "days": 3,
+      "all_labels": [
+        "DAY OFF"
+      ],
+      "id": "ev_079",
+      "category": "pessoal",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO RJ - Dia de São Jorge, Padroeiro do Estado",
+      "start": "2026-04-23",
+      "end": "2026-04-23",
+      "days": 1,
+      "all_labels": [
+        "FERIADO RJ - Dia de São Jorge, Padroeiro do Estado"
+      ],
+      "id": "ev_080",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL SPOLETO FLORIPA",
+      "start": "2026-04-27",
+      "end": "2026-04-27",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL SPOLETO FLORIPA"
+      ],
+      "id": "ev_081",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "COMITÊ FINANCEIRO",
+      "start": "2026-04-28",
+      "end": "2026-04-28",
+      "days": 1,
+      "all_labels": [
+        "COMITÊ FINANCEIRO"
+      ],
+      "id": "ev_082",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL  CIB FLORIPA",
+      "start": "2026-04-28",
+      "end": "2026-04-28",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL  CIB FLORIPA"
+      ],
+      "id": "ev_083",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS MAR",
+      "start": "2026-04-29",
+      "end": "2026-04-29",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS MAR"
+      ],
+      "id": "ev_084",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Dia Mundial do Trabalho",
+      "start": "2026-05-01",
+      "end": "2026-05-01",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Dia Mundial do Trabalho"
+      ],
+      "id": "ev_085",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL NORDESTE SPOLETO(RECIFE)",
+      "start": "2026-05-04",
+      "end": "2026-05-04",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL NORDESTE SPOLETO(RECIFE)"
+      ],
+      "id": "ev_086",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REGIONAL NORDESTE CIB(RECIFE)",
+      "start": "2026-05-05",
+      "end": "2026-05-05",
+      "days": 1,
+      "all_labels": [
+        "REGIONAL NORDESTE CIB(RECIFE)"
+      ],
+      "id": "ev_087",
+      "category": "operacional",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "MEG NRA CHICAGO",
+      "start": "2026-05-13",
+      "end": "2026-05-15",
+      "days": 3,
+      "all_labels": [
+        "MEG NRA CHICAGO"
+      ],
+      "id": "ev_088",
+      "category": "evento_externo",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "FINAL FEEDBACKS - OH",
+      "start": "2026-05-15",
+      "end": "2026-05-15",
+      "days": 1,
+      "all_labels": [
+        "FINAL FEEDBACKS - OH"
+      ],
+      "id": "ev_089",
+      "category": "outro",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "NRA - CHICAGO",
+      "start": "2026-05-16",
+      "end": "2026-05-20",
+      "days": 5,
+      "all_labels": [
+        "NRA - CHICAGO"
+      ],
+      "id": "ev_090",
+      "category": "evento_externo",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "PROPOSTA - ABERTURA DE METAS 2026.2 DIRETORIA",
+      "start": "2026-05-22",
+      "end": "2026-05-22",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - ABERTURA DE METAS 2026.2 DIRETORIA"
+      ],
+      "id": "ev_091",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "MISSÃO CHINA",
+      "start": "2026-05-24",
+      "end": "2026-06-06",
+      "days": 14,
+      "all_labels": [
+        "MISSÃO CHINA"
+      ],
+      "id": "ev_092",
+      "category": "evento_externo",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "FÉRIAS BIA",
+      "start": "2026-05-25",
+      "end": "2026-06-07",
+      "days": 14,
+      "all_labels": [
+        "FÉRIAS BIA"
+      ],
+      "id": "ev_093",
+      "category": "pessoal",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA - INÍCIO ABERTURA DE METAS 2026.2",
+      "start": "2026-05-25",
+      "end": "2026-05-25",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - INÍCIO ABERTURA DE METAS 2026.2"
+      ],
+      "id": "ev_094",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "TREINAMENTO PESQUISA DE CLIMA - NOVOS NEGÓCIOS",
+      "start": "2026-05-25",
+      "end": "2026-06-03",
+      "days": 10,
+      "all_labels": [
+        "TREINAMENTO PESQUISA DE CLIMA - NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_095",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS ABR - A CONFIRMAR",
+      "start": "2026-05-27",
+      "end": "2026-05-27",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS ABR - A CONFIRMAR"
+      ],
+      "id": "ev_096",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Corpus Christi",
+      "start": "2026-06-04",
+      "end": "2026-06-04",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Corpus Christi"
+      ],
+      "id": "ev_097",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "1A BANCA PDE",
+      "start": "2026-06-08",
+      "end": "2026-06-08",
+      "days": 1,
+      "all_labels": [
+        "1A BANCA PDE"
+      ],
+      "id": "ev_098",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INÍCIO - PESQUISA DE CLIMA - NOVOS NEGÓCIOS",
+      "start": "2026-06-08",
+      "end": "2026-06-08",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO - PESQUISA DE CLIMA - NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_099",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PGF",
+      "start": "2026-06-15",
+      "end": "2026-06-15",
+      "days": 1,
+      "all_labels": [
+        "PGF"
+      ],
+      "id": "ev_100",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FIM - PESQUISA DE CLIMA - NOVOS NEGÓCIOS",
+      "start": "2026-06-19",
+      "end": "2026-06-19",
+      "days": 1,
+      "all_labels": [
+        "FIM - PESQUISA DE CLIMA - NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_101",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FRANCHISING SUMMIT",
+      "start": "2026-06-21",
+      "end": "2026-06-21",
+      "days": 1,
+      "all_labels": [
+        "FRANCHISING SUMMIT"
+      ],
+      "id": "ev_102",
+      "category": "evento_externo",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS MAI",
+      "start": "2026-06-29",
+      "end": "2026-06-29",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS MAI"
+      ],
+      "id": "ev_103",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS SP",
+      "start": "2026-07-01",
+      "end": "2026-07-01",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS SP"
+      ],
+      "id": "ev_104",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "APRESENTAÇÃO PESQUISA DE CLIMA - NOVOS NEGÓCIOS",
+      "start": "2026-07-06",
+      "end": "2026-07-08",
+      "days": 3,
+      "all_labels": [
+        "APRESENTAÇÃO PESQUISA DE CLIMA - NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_105",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INÍCIO AVALIAÇÕES RDG GURUMÊ 26.1",
+      "start": "2026-07-07",
+      "end": "2026-07-07",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO AVALIAÇÕES RDG GURUMÊ 26.1"
+      ],
+      "id": "ev_106",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO SP- Revolução Constitucionalista",
+      "start": "2026-07-09",
+      "end": "2026-07-09",
+      "days": 1,
+      "all_labels": [
+        "FERIADO SP- Revolução Constitucionalista"
+      ],
+      "id": "ev_107",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "APRESENTAÇÃO PESQUISA DE CLIMA - NOVOS NEGÓCIOS",
+      "start": "2026-07-13",
+      "end": "2026-07-17",
+      "days": 5,
+      "all_labels": [
+        "APRESENTAÇÃO PESQUISA DE CLIMA - NOVOS NEGÓCIOS"
+      ],
+      "id": "ev_108",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FIM AUTOAVALIAÇÃO RDG GURUMÊ 26.1",
+      "start": "2026-07-16",
+      "end": "2026-07-16",
+      "days": 1,
+      "all_labels": [
+        "FIM AUTOAVALIAÇÃO RDG GURUMÊ 26.1"
+      ],
+      "id": "ev_109",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FIM AVALIAÇÕES RDG GURUMÊ 26.1",
+      "start": "2026-07-27",
+      "end": "2026-07-27",
+      "days": 1,
+      "all_labels": [
+        "FIM AVALIAÇÕES RDG GURUMÊ 26.1"
+      ],
+      "id": "ev_110",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS RJ",
+      "start": "2026-07-29",
+      "end": "2026-07-29",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS RJ"
+      ],
+      "id": "ev_111",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS JUN E 1º SEMESTRE",
+      "start": "2026-07-30",
+      "end": "2026-07-30",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS JUN E 1º SEMESTRE"
+      ],
+      "id": "ev_112",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO CPQ RJ",
+      "start": "2026-08-03",
+      "end": "2026-08-03",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO CPQ RJ"
+      ],
+      "id": "ev_113",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO SPOLETO RJ",
+      "start": "2026-08-04",
+      "end": "2026-08-04",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO SPOLETO RJ"
+      ],
+      "id": "ev_114",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO CIB RJ",
+      "start": "2026-08-05",
+      "end": "2026-08-05",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO CIB RJ"
+      ],
+      "id": "ev_115",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONSELHO KONI RJ",
+      "start": "2026-08-06",
+      "end": "2026-08-06",
+      "days": 1,
+      "all_labels": [
+        "CONSELHO KONI RJ"
+      ],
+      "id": "ev_116",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA - FECHAMENTO DE METAS 2026.1 DIRETORIA",
+      "start": "2026-08-07",
+      "end": "2026-08-07",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - FECHAMENTO DE METAS 2026.1 DIRETORIA"
+      ],
+      "id": "ev_117",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "PROPOSTA - INÍCIO FECHAMENTO DE METAS 2026.1",
+      "start": "2026-08-10",
+      "end": "2026-08-10",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - INÍCIO FECHAMENTO DE METAS 2026.1"
+      ],
+      "id": "ev_118",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "PROPOSTA RDG OP GURUMÊ 26.1",
+      "start": "2026-08-11",
+      "end": "2026-08-12",
+      "days": 2,
+      "all_labels": [
+        "PROPOSTA RDG OP GURUMÊ 26.1"
+      ],
+      "id": "ev_119",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA RDG OP GURUMÊ 26.1",
+      "start": "2026-08-18",
+      "end": "2026-08-19",
+      "days": 2,
+      "all_labels": [
+        "PROPOSTA RDG OP GURUMÊ 26.1"
+      ],
+      "id": "ev_120",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "SEMESTRAL CPQ SP",
+      "start": "2026-08-20",
+      "end": "2026-08-20",
+      "days": 1,
+      "all_labels": [
+        "SEMESTRAL CPQ SP"
+      ],
+      "id": "ev_121",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS JULHO",
+      "start": "2026-08-24",
+      "end": "2026-08-24",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS JULHO"
+      ],
+      "id": "ev_122",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA RDG LIDERANÇA GURUMÊ 26.1",
+      "start": "2026-08-25",
+      "end": "2026-08-26",
+      "days": 2,
+      "all_labels": [
+        "PROPOSTA RDG LIDERANÇA GURUMÊ 26.1"
+      ],
+      "id": "ev_123",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS SP",
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS SP"
+      ],
+      "id": "ev_124",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INÍCIO PESQUISA DE CLIMA - OH TRIGO",
+      "start": "2026-09-01",
+      "end": "2026-09-01",
+      "days": 1,
+      "all_labels": [
+        "INÍCIO PESQUISA DE CLIMA - OH TRIGO"
+      ],
+      "id": "ev_125",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - INDEPENDÊNCIA DO BRASIL",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - INDEPENDÊNCIA DO BRASIL"
+      ],
+      "id": "ev_126",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FIM PESQUISA DE CLIMA - OH TRIGO",
+      "start": "2026-09-14",
+      "end": "2026-09-14",
+      "days": 1,
+      "all_labels": [
+        "FIM PESQUISA DE CLIMA - OH TRIGO"
+      ],
+      "id": "ev_127",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PLANEJAMENTO ESTRATÉGICO TRIGO",
+      "start": "2026-09-17",
+      "end": "2026-09-19",
+      "days": 3,
+      "all_labels": [
+        "PLANEJAMENTO ESTRATÉGICO TRIGO"
+      ],
+      "id": "ev_128",
+      "category": "desenvolvimento",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS AGOSTO",
+      "start": "2026-09-25",
+      "end": "2026-09-25",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS AGOSTO"
+      ],
+      "id": "ev_129",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "SQUADRA",
+      "start": "2026-09-27",
+      "end": "2026-10-07",
+      "days": 11,
+      "all_labels": [
+        "SQUADRA"
+      ],
+      "id": "ev_130",
+      "category": "evento_externo",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA FÉRIAS CAMILLA",
+      "start": "2026-10-05",
+      "end": "2026-10-09",
+      "days": 5,
+      "all_labels": [
+        "PROPOSTA FÉRIAS CAMILLA"
+      ],
+      "id": "ev_131",
+      "category": "pessoal",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Nossa Senhora Aparecida",
+      "start": "2026-10-12",
+      "end": "2026-10-12",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Nossa Senhora Aparecida"
+      ],
+      "id": "ev_132",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "APRESENTAÇÃO PESQUISA DE CLIMA - OH TRIGO",
+      "start": "2026-10-13",
+      "end": "2026-10-21",
+      "days": 9,
+      "all_labels": [
+        "APRESENTAÇÃO PESQUISA DE CLIMA - OH TRIGO"
+      ],
+      "id": "ev_133",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INICIO PESQUISA DE CLIMA - GURUMÊ",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "days": 1,
+      "all_labels": [
+        "INICIO PESQUISA DE CLIMA - GURUMÊ"
+      ],
+      "id": "ev_134",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS RJ",
+      "start": "2026-10-22",
+      "end": "2026-10-22",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS RJ"
+      ],
+      "id": "ev_135",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIAO DE RESULTADOS",
+      "start": "2026-10-23",
+      "end": "2026-10-23",
+      "days": 1,
+      "all_labels": [
+        "REUNIAO DE RESULTADOS"
+      ],
+      "id": "ev_136",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONVENÇÃO ABF - COMANDATUBA",
+      "start": "2026-10-28",
+      "end": "2026-11-01",
+      "days": 5,
+      "all_labels": [
+        "CONVENÇÃO ABF - COMANDATUBA"
+      ],
+      "id": "ev_137",
+      "category": "reuniao",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "FIM PESQUISA DE CLIMA - GURUMÊ",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
+      "days": 1,
+      "all_labels": [
+        "FIM PESQUISA DE CLIMA - GURUMÊ"
+      ],
+      "id": "ev_138",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO - Dia de Finados",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Dia de Finados"
+      ],
+      "id": "ev_139",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "INICIO AVALIAÇÕES RDG FÁBRICA",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "days": 1,
+      "all_labels": [
+        "INICIO AVALIAÇÕES RDG FÁBRICA"
+      ],
+      "id": "ev_140",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "CONVENÇAO DE MARCAS",
+      "start": "2026-11-09",
+      "end": "2026-11-12",
+      "days": 4,
+      "all_labels": [
+        "CONVENÇAO DE MARCAS"
+      ],
+      "id": "ev_141",
+      "category": "reuniao",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "FERIADO - Proclamação da República",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "days": 1,
+      "all_labels": [
+        "FERIADO - Proclamação da República"
+      ],
+      "id": "ev_142",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FIM AVALIAÇÕES RDG FÁBRICA",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "days": 1,
+      "all_labels": [
+        "FIM AVALIAÇÕES RDG FÁBRICA"
+      ],
+      "id": "ev_143",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "FERIADO -  Consciência Negra",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "days": 1,
+      "all_labels": [
+        "FERIADO -  Consciência Negra"
+      ],
+      "id": "ev_144",
+      "category": "feriado",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "ALINHAMENTO DO MÊS SP",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "days": 1,
+      "all_labels": [
+        "ALINHAMENTO DO MÊS SP"
+      ],
+      "id": "ev_145",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "APRESENTAÇÃO PESQUISA DE CLIMA - GURUMÊ",
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "days": 5,
+      "all_labels": [
+        "APRESENTAÇÃO PESQUISA DE CLIMA - GURUMÊ"
+      ],
+      "id": "ev_146",
+      "category": "clima",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "REUNIÃO DE RESULTADOS",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "days": 1,
+      "all_labels": [
+        "REUNIÃO DE RESULTADOS"
+      ],
+      "id": "ev_147",
+      "category": "reuniao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA RDG FÁBRICA",
+      "start": "2026-12-08",
+      "end": "2026-12-08",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA RDG FÁBRICA"
+      ],
+      "id": "ev_148",
+      "category": "avaliacao",
+      "notes": "",
+      "important": false
+    },
+    {
+      "title": "PROPOSTA - ABERTURA DE METAS 2027.1 DIRETORIA",
+      "start": "2026-12-14",
+      "end": "2026-12-14",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - ABERTURA DE METAS 2027.1 DIRETORIA"
+      ],
+      "id": "ev_149",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    },
+    {
+      "title": "PROPOSTA - INICIO ABERTURA DE METAS 2027.1",
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "days": 1,
+      "all_labels": [
+        "PROPOSTA - INICIO ABERTURA DE METAS 2027.1"
+      ],
+      "id": "ev_150",
+      "category": "meta",
+      "notes": "",
+      "important": true
+    }
+  ],
+  "inconsistencies": [
+    {
+      "tipo": "numero_dia_invalido",
+      "mes": "SETEMBRO",
+      "celula": "K252",
+      "valor": 32,
+      "detalhe": "Dia 32 fora do mês SETEMBRO, ignorado."
+    },
+    {
+      "tipo": "numero_dia_invalido",
+      "mes": "SETEMBRO",
+      "celula": "M252",
+      "valor": 33,
+      "detalhe": "Dia 33 fora do mês SETEMBRO, ignorado."
+    }
+  ]
+}

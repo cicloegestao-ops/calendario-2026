@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendário Corporativo · Gestão e Ciclo 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- HERO / HEADER -->
+  <header class="hero">
+    <div class="hero-inner">
+      <span class="eyebrow">Calendário Corporativo · 2026</span>
+      <h1>Gestão e Ciclo</h1>
+      <p class="hero-sub">Visualize, filtre e acompanhe todos os eventos, reuniões, avaliações e marcos do ano.</p>
+
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="hero-stat-value" id="stat-months">—</div>
+          <div class="hero-stat-label">Meses</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-value" id="stat-events">—</div>
+          <div class="hero-stat-label">Eventos</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-value" id="stat-important">—</div>
+          <div class="hero-stat-label">Marcos</div>
+        </div>
+      </div>
+
+      <button class="hero-admin" id="btn-admin" title="Modo edição">
+        <span>⚙</span> Editar programação
+      </button>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- PRÓXIMOS EVENTOS -->
+    <section class="upcoming-section">
+      <h2 class="section-title">Próximos eventos</h2>
+      <div class="upcoming-grid" id="upcoming-grid"></div>
+    </section>
+
+    <!-- FILTRO POR MÊS -->
+    <section class="filter-section">
+      <h2 class="section-title">Filtrar por mês</h2>
+      <div class="month-filter" id="month-filter"></div>
+    </section>
+
+    <!-- LISTA DE MESES -->
+    <section class="months-list" id="months-list"></section>
+
+    <!-- AJUDA -->
+    <section class="help-section">
+      <h2 class="help-title">✏️ Como editar a programação</h2>
+      <ol class="help-list">
+        <li>Clique em <strong>⚙ Editar programação</strong> no topo da página.</li>
+        <li>Edite, adicione ou exclua eventos diretamente pelo painel.</li>
+        <li>Use a aba <strong>Importar/Exportar</strong> para baixar/subir uma planilha.</li>
+        <li>Suas alterações ficam salvas automaticamente no navegador.</li>
+      </ol>
+      <p class="help-note">💡 Eventos marcados como <strong>marco importante</strong> aparecem com borda destacada e ícone ★.</p>
+    </section>
+
+  </main>
+
+  <!-- MODAL DE DETALHES -->
+  <div class="modal" id="event-modal" aria-hidden="true">
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card" role="dialog" aria-modal="true">
+      <button class="modal-close" data-close aria-label="Fechar">×</button>
+      <span class="modal-tag" id="modal-tag"></span>
+      <h3 id="modal-title"></h3>
+      <p class="modal-dates" id="modal-dates"></p>
+      <div class="modal-notes" id="modal-notes"></div>
+      <div class="modal-meta" id="modal-meta"></div>
+    </div>
+  </div>
+
+  <!-- PAINEL DE ADMIN -->
+  <div class="admin-panel" id="admin-panel" aria-hidden="true">
+    <div class="admin-backdrop" data-admin-close></div>
+    <div class="admin-card">
+      <header class="admin-header">
+        <h3>Editar programação</h3>
+        <button class="modal-close" data-admin-close aria-label="Fechar">×</button>
+      </header>
+
+      <div class="admin-tabs">
+        <button class="admin-tab active" data-admin-tab="list">Eventos</button>
+        <button class="admin-tab" data-admin-tab="add">Adicionar</button>
+        <button class="admin-tab" data-admin-tab="io">Importar/Exportar</button>
+      </div>
+
+      <div class="admin-section active" data-admin-section="list">
+        <div class="admin-search">
+          <input type="text" id="admin-search" placeholder="Buscar evento..." />
+        </div>
+        <div class="admin-list" id="admin-list"></div>
+      </div>
+
+      <div class="admin-section" data-admin-section="add">
+        <form id="admin-form" class="admin-form">
+          <input type="hidden" name="id" />
+          <label>
+            <span>Título</span>
+            <input type="text" name="title" required />
+          </label>
+          <div class="form-row">
+            <label>
+              <span>Início</span>
+              <input type="date" name="start" required />
+            </label>
+            <label>
+              <span>Fim</span>
+              <input type="date" name="end" required />
+            </label>
+          </div>
+          <label>
+            <span>Categoria</span>
+            <select name="category">
+              <option value="avaliacao">Avaliação / RDG</option>
+              <option value="reuniao">Reunião / Conselho</option>
+              <option value="meta">Metas / Prazos</option>
+              <option value="clima">Pesquisa de Clima</option>
+              <option value="desenvolvimento">Desenvolvimento</option>
+              <option value="evento_externo">Evento externo</option>
+              <option value="operacional">Operacional</option>
+              <option value="feriado">Feriado / Folga</option>
+              <option value="pessoal">Pessoal / Férias</option>
+              <option value="outro">Outro</option>
+            </select>
+          </label>
+          <label>
+            <span>Observações</span>
+            <textarea name="notes" rows="3"></textarea>
+          </label>
+          <label class="checkbox">
+            <input type="checkbox" name="important" />
+            <span>Marcar como marco importante</span>
+          </label>
+          <div class="form-actions">
+            <button type="submit" class="btn-primary">Salvar evento</button>
+            <button type="button" class="btn-ghost" id="form-cancel">Limpar</button>
+          </div>
+        </form>
+      </div>
+
+      <div class="admin-section" data-admin-section="io">
+        <div class="io-block">
+          <h4>Exportar</h4>
+          <p>Salve uma cópia dos eventos atuais.</p>
+          <div class="io-actions">
+            <button class="btn-primary" id="btn-export-json">Baixar JSON</button>
+            <button class="btn-ghost" id="btn-export-csv">Baixar CSV (planilha)</button>
+            <button class="btn-ghost" id="btn-copy-json">Copiar JSON</button>
+          </div>
+        </div>
+        <div class="io-block">
+          <h4>Importar</h4>
+          <p>Substitui os eventos atuais pelos do arquivo carregado (JSON ou CSV).</p>
+          <div class="io-actions">
+            <input type="file" id="file-import" accept=".json,.csv" />
+          </div>
+        </div>
+        <div class="io-block io-block--warning">
+          <h4>Resetar</h4>
+          <p>Volta ao calendário original carregado da planilha.</p>
+          <button class="btn-warn" id="btn-reset">Resetar para o original</button>
+        </div>
+        <div class="io-block">
+          <h4>Inconsistências detectadas na planilha</h4>
+          <ul class="inconsistencies-list" id="inconsistencies-list"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>Calendário Corporativo · Gestão e Ciclo 2026 · Edição salva localmente no navegador</p>
+  </footer>
+
+  <script src="embedded.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
